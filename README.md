@@ -34,9 +34,7 @@ https://www.instagram.com/p/CCdcH3FBd1a/?utm_medium=copy_link
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/phathicusthiccy/COCO-SIR.git)
-
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cocosir007/COCO-SIR.git
 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@cocosir007/cocosir007)
